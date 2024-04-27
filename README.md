@@ -1,3 +1,11 @@
+## To get started
+- Clone this repo in the
+  ```~/.config/nvim``` directory
+- Open iTerm and run
+```bash
+  nvim .
+```
+
 ## Refer
 
 For detailed setup instructions and explanations, refer to the following resources:
